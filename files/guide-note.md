@@ -1,0 +1,2 @@
+> **OpenCode note.** This is the upstream pstack guide, written for Cursor and vendored here for reference. In this install: skills live under `~/.agents/skills/` and load as slash commands or `@skill-id` mentions; subagents are the `poteto-agent` / `poteto-judge` / `comment-sicko` agents in `~/.config/opencode/agents/`; Cursor-only features (Custom Modes, `/loop`, cloud agents, Grok Bot) do not exist. See `~/.agents/skills/poteto-help/SKILL.md` for the OpenCode-specific map.
+
