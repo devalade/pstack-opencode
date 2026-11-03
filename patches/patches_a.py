@@ -21,7 +21,7 @@ P(PM,
   'About to ask the user a "which approach", "how should I", or "what should this do" question')
 P(PM,
   "Agent-facing prose also follows the **create-skill** skill (Cursor's built-in for authoring SKILL.md files).",
-  "Agent-facing prose also follows the **writing-great-skills** skill and the bundled `playbooks/authoring-a-skill.md`.")
+  "Agent-facing prose also follows the **writing-for-agents** skill and the bundled `playbooks/authoring-a-skill.md`.")
 P(PM,
   "not Cursor's built-in babysit skill, whose description matches the same words.",
   "not any runtime's own PR-status skill, whose description matches the same words.")
